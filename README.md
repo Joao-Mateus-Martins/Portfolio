@@ -1,99 +1,49 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  
- 
-</head>
-<body>
+📌 Personal Portfolio
 
-  <h1>📌 Portfólio Pessoal</h1>
+Welcome to my online portfolio! This is where I showcase my projects, technical skills, and professional information as a web developer.
 
-  <p>
-    Bem-vindo ao meu portfólio online!  
-    Aqui você encontra meus projetos, habilidades e informações profissionais.
-  </p>
+🌐 Live Demo
 
-  <p>
-    🌐 <strong>Deploy do projeto:</strong><br>
-    <a href="https://portifolio-nine-mu-79.vercel.app/" target="_blank">
-      https://portifolio-nine-mu-79.vercel.app/
-    </a>
-  </p>
+View Live Demo
 
-  <hr>
+🚀 About the Project
 
-  <h2>🚀 Sobre o Projeto</h2>
-  <p>
-    Este projeto foi desenvolvido com o objetivo de apresentar meu trabalho como
-    desenvolvedor web, destacando projetos, competências técnicas e design moderno.
-    O foco principal é criar uma experiência simples, responsiva e profissional.
-  </p>
+This project was built to present my work as a web developer, highlighting projects, technical skills, and a modern design. The main goal was to create a simple, responsive, and professional experience.
 
-  <hr>
+✨ Features
+Personal introduction section
+Technical skills list
+Projects with descriptions and links
+Social media links
+Fully responsive layout
+🛠️ Technologies
+HTML5
+CSS3
+JavaScript
+Vercel (Deploy)
+📂 Project Structure
+Portfolio/
+├── Img/
+├── Menu.css
+├── fundo.js
+├── index.html
+├── script.js
+├── styles.css
+└── README.md
+🚀 Getting Started
+bash
+git clone https://github.com/Joao-Mateus-Martins/Portfolio.git
+cd Portfolio
 
-  <h2>🧠 Tecnologias Utilizadas</h2>
-  <ul>
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>JavaScript</li>
-    <li>Vercel (Deploy)</li>
-  </ul>
+Then open index.html directly in your browser.
 
-  <hr>
+👨‍💻 About Me
 
-  <h2>💡 Funcionalidades</h2>
-  <ul>
-    <li>Apresentação pessoal</li>
-    <li>Lista de habilidades técnicas</li>
-    <li>Projetos com descrição</li>
-    <li>Links para redes sociais</li>
-    <li>Layout responsivo</li>
-  </ul>
+My name is João Mateus, a web developer passionate about building modern, functional, and responsive interfaces. Always looking to grow and learn new technologies.
 
-  <hr>
+GitHub: @Joao-Mateus-Martins
+📜 License
 
-  <h2>🛠️ Como rodar o projeto localmente</h2>
+This project is licensed under the MIT License — feel free to use, study, and adapt it.
 
-  <pre>
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
-npm install
-npm start
-  </pre>
-
-  <p>
-    Após isso, o projeto estará disponível em  
-    <code>http://localhost:3000</code> (ou na porta configurada).
-  </p>
-
-  <hr>
-
-  <h2>🧑‍💻 Sobre Mim</h2>
-  <p>
-    Meu nome é <strong>João Mateus</strong>, sou Desenvolvedor Web apaixonado por
-    criar interfaces modernas, funcionais e responsivas.
-    Estou sempre buscando evoluir e aprender novas tecnologias.
-  </p>
-
-  <p>
-    🔗 GitHub:
-    <a href="https://github.com/seu-usuario" target="_blank">
-      https://github.com/seu-usuario
-    </a>
-  </p>
-
-  <hr>
-
-  <h2>📜 Licença</h2>
-  <p>
-    Este projeto está sob a licença MIT.  
-    Sinta-se livre para usar, estudar e adaptar.
-  </p>
-
-  <footer>
-    © 2026 - João Mateus • Desenvolvedor Web
-  </footer>
-
-</body>
-</html>
+© 2026 João Mateus • Web Developer
